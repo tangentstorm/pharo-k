@@ -1,0 +1,1 @@
+## Installation```Metacello new	repository: 'github://tangentstorm/pharo-k:main/src';	baseline: 'PharoK';	load```## Load Lepiter				After installing with Metacello, you will be able to execute```#BaselineOfPharoK asClass loadLepiter```## Load Lepiter				After installing with Metacello, you will be able to execute```#BaselineOfPharoK asClass loadLepiter```
